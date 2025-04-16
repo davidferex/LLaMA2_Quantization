@@ -1,0 +1,10 @@
+torch
+transformers
+accelerate
+datasets
+codecarbon
+wandb
+hqq
+auto-gptq
+bitsandbytes
+optimum-quanto
