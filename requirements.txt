@@ -8,3 +8,4 @@ hqq
 auto-gptq
 bitsandbytes
 optimum-quanto
+scikit-learn
