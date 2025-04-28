@@ -1,4 +1,4 @@
-# TFG_Informatica
+# LLaMA2 Quantization
 This repository contains the code and resources for my final project in Computer Science.
 In this work, I explore and evaluate various quantization techniques applied to large language models (LLMs). Specifically, I focus on the LLaMA 2 7B model as the base model for experimentation.
 The objective is to quantify the impact of different quantization methods by comparing the performance, memory usage, and efficiency of the quantized models against the original full-precision model. Specifically, I use BitsAndBytes, GPTQ, HQQ and Quanto as quantization methods.
